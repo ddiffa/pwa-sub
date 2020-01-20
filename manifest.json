@@ -1,0 +1,22 @@
+{
+    "name": "Super Soccer",
+    "short_name": "SS",
+    "description": "Super Soccer",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#d32f2f",
+    "theme_color": "#d32f2f",
+    "icons": [
+        {
+            "src": "/img/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "424609003811"
+}
